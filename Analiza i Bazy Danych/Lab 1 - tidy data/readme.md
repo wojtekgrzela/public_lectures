@@ -23,7 +23,7 @@ Grupa środa 10:00
 Grupa poniedziałek 11:00
 
 1. drinks.csv Dane i informacje: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
-2. dem_score.xls  -  contains ratings of the level of democracy in different countries spanning 1952 to 1992. In this dataset, the minimum value of -10 corresponds to a highly autocratic nation whereas a value of 10 corresponds to a highly democratic nation. Note also that backticks surround the different variable names.
+2. dem_score.xlsx  -  contains ratings of the level of democracy in different countries spanning 1952 to 1992. In this dataset, the minimum value of -10 corresponds to a highly autocratic nation whereas a value of 10 corresponds to a highly democratic nation. Note also that backticks surround the different variable names.
 3. weather.txt - dane pogodowe (dataset opisany na wykładzie)
 4. tb.csv - dane o gruźlicy w różnych grupach pacjentów (tabela koduje jednocześnie informacje o wieku i o płci w kolumnach i zawiera dużo pustych miejsc)
 
