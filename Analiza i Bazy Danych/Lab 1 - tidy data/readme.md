@@ -34,4 +34,4 @@ Grupa poniedziałek 14:00
 3. billboard.csv - notowania billboardu (w tabeli jest data wejścia na listę i ranking w kolejnych tygodniach, nie da się wprost odczytać rankingu w danym tygodniu kalendarzowym i jest dużo pustych miejsc)
 4. earthquake_data.csv https://fivethirtyeight.com/features/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one/ (należy zmienić nazwy kolumn i przygotować tabelę łączącą wiek, płeć i odpowiedź na pytanie "Do you think the "Big One" will occur in your lifetime?"
 
-Numer swojego datasetu uzyskujemy ze wzoru **(N mod 3) +1**, gdzie N to liczba liter w nazwisku.
+Numer swojego datasetu uzyskujemy ze wzoru **(N mod 4) +1**, gdzie N to liczba liter w nazwisku.
