@@ -24,14 +24,14 @@ CREATE TABLE tab_name (
 
 Należy uzupełnić ją danymi:
 
-INSERT INTO shape_a (id, fruit)
+INSERT INTO shape_a (id, shape)
 VALUES
     (1, 'Trójkąt'),
     (2, 'Kwadrat'),
     (3, 'Deltoid'),
     (4, 'Traper');
  
-INSERT INTO shape_b (id, fruit)
+INSERT INTO shape_b (id, shape)
 VALUES
     (1, 'Kwadrat'),
     (2, 'Trójkąt'),
