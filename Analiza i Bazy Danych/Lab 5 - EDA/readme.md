@@ -10,6 +10,13 @@ Celem ćwiczenia jest:
 
  [TIER Protocol](https://www.projecttier.org/tier-protocol/)
 
+Instalacja pakietów z poziomu jupytera:
+
+``import sys``
+
+``!{sys.executable} -m pip install plotly``
+
+
 Dane do zadania 1.
   
 Grupa środa 10:00
