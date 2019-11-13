@@ -4,7 +4,7 @@ Celem ćwiczenia jest:
 
 1. Przygotowanie Data Dictionary dla zbioru danych opracowanego w ćwiczeniu 1 zgodnie z protokołem TIER. 
 
-2. Korzystając z narzędzi do wizualizacji oraz 
+2. Korzystając z narzędzi do wizualizacji i podsumowań ``pandas`` sformułować odpowiedź na przydzielone pytania.
 
 
 
@@ -34,3 +34,12 @@ Grupa poniedziałek 14:00
 4. earthquake_data.csv https://fivethirtyeight.com/features/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one/ (należy zmienić nazwy kolumn i przygotować tabelę łączącą wiek, płeć i odpowiedź na pytanie "Do you think the "Big One" will occur in your lifetime?"
 
 Numer swojego datasetu uzyskujemy ze wzoru **(N mod 4) +1**, gdzie N to liczba liter w nazwisku.
+
+
+Dane do zadania 1.
+  
+Grupa środa 10:00
+
+1. Dataset tips.csv. Czy kobiety dają większe napiwki? Czy grupy palaczy są bardziej czy mniej liczne od niepalących.
+2. Dataset InsectSprays.csv. Dane przedstawiają obserwowaną liczbę owadów na polu doświadczalnym zaobserwowaną po dokonaniu oprysku pestycydem A-F. Przygotować analizę skuteczności pestycydów.
+3. Dataset mpg.csv Jakie czynniki wpływają na zużycie paliwa samochodu w trasie (hwy) i w mieście (cty)?
