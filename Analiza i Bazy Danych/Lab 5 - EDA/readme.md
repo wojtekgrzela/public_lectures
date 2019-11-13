@@ -36,10 +36,13 @@ Grupa poniedziałek 14:00
 Numer swojego datasetu uzyskujemy ze wzoru **(N mod 4) +1**, gdzie N to liczba liter w nazwisku.
 
 
-Dane do zadania 1.
+Dane do zadania 2.
   
 Grupa środa 10:00
 
 1. Dataset tips.csv. Czy kobiety dają większe napiwki? Czy grupy palaczy są bardziej czy mniej liczne od niepalących.
 2. Dataset InsectSprays.csv. Dane przedstawiają obserwowaną liczbę owadów na polu doświadczalnym zaobserwowaną po dokonaniu oprysku pestycydem A-F. Przygotować analizę skuteczności pestycydów.
 3. Dataset mpg.csv Jakie czynniki wpływają na zużycie paliwa samochodu w trasie (hwy) i w mieście (cty)?
+
+Numer swojego tematu uzyskujemy ze wzoru **(N mod 3) +1**, gdzie N to liczba liter w nazwisku.
+
