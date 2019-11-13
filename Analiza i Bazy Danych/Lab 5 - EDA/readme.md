@@ -1,11 +1,14 @@
 # Ćwiczenie 5 - Exploratory Data Analysis
 
+## Cel ćwiczenia
+
 Celem ćwiczenia jest:
 
 1. Przygotowanie Data Dictionary dla zbioru danych opracowanego w ćwiczeniu 1 zgodnie z protokołem TIER. 
 
 2. Korzystając z narzędzi do wizualizacji i podsumowań ``pandas`` sformułować odpowiedź na przydzielone pytania.
 
+## Informacje dodatkowe
 
 
  [TIER Protocol](https://www.projecttier.org/tier-protocol/)
@@ -17,7 +20,7 @@ Instalacja pakietów z poziomu jupytera:
 ``!{sys.executable} -m pip install plotly``
 
 
-Dane do zadania 1.
+## Dane do zadania 1.
   
 Grupa środa 10:00
 
@@ -43,7 +46,7 @@ Grupa poniedziałek 14:00
 Numer swojego datasetu uzyskujemy ze wzoru **(N mod 4) +1**, gdzie N to liczba liter w nazwisku.
 
 
-Dane do zadania 2.
+## Dane do zadania 2.
   
 Grupa środa 10:00
 
