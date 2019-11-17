@@ -52,7 +52,19 @@ Grupa środa 10:00
 
 1. Dataset tips.csv. Czy kobiety dają większe napiwki? Czy grupy palaczy są bardziej czy mniej liczne od niepalących.
 2. Dataset InsectSprays.csv. Dane przedstawiają obserwowaną liczbę owadów na polu doświadczalnym zaobserwowaną po dokonaniu oprysku pestycydem A-F. Przygotować analizę skuteczności pestycydów.
-3. Dataset mpg.csv Jakie czynniki wpływają na zużycie paliwa samochodu w trasie (hwy) i w mieście (cty)?
+3. Dataset mpg.csv. Jakie czynniki wpływają na zużycie paliwa samochodu w trasie (hwy) i w mieście (cty)?
+
+Grupa poniedziałek 11:00
+
+1. Dataset tb.csv. Czy mężczyźni częściej chorują na gruźlice ? Która grupa wiekowa jest najbardziej narażona na zachorowanie.
+2. Dataset drinks.csv. Przeanalizować dla wszystkich typów alkoholi w których Państwach spożywa się więcej danego typu alkoholu a w których mniej niż wynosi średnia obliczona z danych. Analizę przeprowadź również dla spożycia czystego alkoholu. Porównaj otrzymane grupy ze sobą.
+3. Dataset dem_score.xlsx.  W jakich państwach poziom demokracji w opisywanych latach był stały, ciągle malejący, ciągle rosnący dla pozostałych określ czy poziom demokracji miał tendencję wzrostową czy malejącą?
+
+Grupa poniedziałek 14:00
+
+1. Dataset weather.txt. Która stacja zarejestrował największą różnicę temperatur w ciągu miesiąca? Określ które ze stacji zarejestrowały temperatury najbliższe do średniej wartości temperatury maksymalnej i minimalnej z poszczególnych miesięcy.
+2. Dataset billboard.csv. Określ który z gatunków muzyki znajdował się najczęściej w pierwszej 10 notowań? Podziel zbiór ze względu na długość trwania utworu i sprawdź która grupa najczęściej zdobywała miejsce w pierwszej 10 a jaka w ostatniej. 
+3. Dataset earthquake_data.csv. Określ który ze stanów obawia się najbardziej a który najmniej trzęsienia ziemi. Czy trzęsienia ziemi obawiają się bardziej mężczyźni czy kobiety? Która grupa zarobkowa ma największe doświadczenie z trzęsieniami ziemi?
 
 Numer swojego tematu uzyskujemy ze wzoru **(N mod 3) +1**, gdzie N to liczba liter w nazwisku.
 
