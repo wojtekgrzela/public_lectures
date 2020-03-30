@@ -20,8 +20,8 @@ Na rynku usług informatycznych w tym zakresie najbardziej popularne są dwa roz
 3. Wewnątrz folderu stwórz dokument tekstowy i zaproś do jego edycji trzy osoby. Można to zrobić przez ikonkę ![ludzik z plusem](/img/add.png) w prawym górnym rogu, bezpośrednio w dokumencie przyciskiem **Udostępnij** lub z menu kontekstowego z pozycji **Udostępnij**.
 4. W udospenionym dokumencie sprawdź jak działa zarządzanie poziomem edycji. W tym celu jeszcze raz przejdz do opcji **Udospenij** i w okienku które się pojawi w lewym dolnym rogu odszukaj opcję *zawansowane*. Zmień poziomy dostępu wybranym osobom i zaobserwujcie wspólnie jak teraz działa system.
 5. Dodaj komentarz do wpisanego tekstu w dokumencie, następnie w treści komentarza wstaw znak **+**, co się stało? Przetestuj opcję przydzielania zadań z pozycji komentarza w dokumencie.
-6. Po dokonaniu edycji w środkowej częsi ekranu znajduje się status zmian dokumentu, kliknij w niego. Jakie opcje oferuje śledzenie zmian?
-7. Zmień opcję edycji dokumentu dla samego sibie, prawy róg edytora tuż nad polem edycji. Sprawdź jak widzą twoje zmiany członkowie zespołu gdy jesteś w trybie **Sugerowanie**.
+6. Po dokonaniu edycji w środkowej części ekranu znajduje się status zmian dokumentu, kliknij w niego. Jakie opcje oferuje śledzenie zmian?
+7. Zmień opcję edycji dokumentu dla samego siebie, prawy róg edytora tuż nad polem edycji. Sprawdź jak widzą twoje zmiany członkowie zespołu gdy jesteś w trybie **Sugerowanie**.
 8. Sprawdź czy inne typy dokumnetów posiadają podobne opcje.
 9. Za pomocą opcji **Pobierz dodatki** (dla dysku Google), symbol plus na prawym pasku interfejsu, przejdz do *G Suit Marketplace*. Sprawdź czy któreś z rozszerzeń przyd Ci się w korzystaniu z Google Drive.   
 
