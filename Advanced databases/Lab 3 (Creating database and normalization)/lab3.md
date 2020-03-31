@@ -159,9 +159,9 @@ Remember after all operation on a database in session you must commit or rollbac
 
 ## Exercise
 
-The [data directory]() contains data sets in csv files. Suggest a 3NF database structure and describe it using SQLAlchemy.
+The [data directory](https://github.com/KAIR-ISZ/public_lectures/tree/master/Advanced%20databases/Lab%203%20(Creating%20database%20and%20normalization)/data_set) contains data sets in csv files. Suggest a 3NF database structure and describe it using SQLAlchemy.
 
 Your individual data set has the number:
 ```python
-(len (your_name) + len (your_surname))% 6
+(len(your_name) + len(your_surname))% 6
 ```
