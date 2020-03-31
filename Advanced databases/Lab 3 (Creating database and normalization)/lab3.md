@@ -16,7 +16,7 @@ Suppose we want to create tables
 
 - Books
 
-	| id 	| id_author 	| original_title 	| publication_date 	| original_language 	|
+| id 	| id_author 	| original_title 	| publication_date 	| original_language 	|
 |:--:	|:---------:	|:--------------:	|:----------------:	|:-----------------:	|
 |  1 	|     1     	|     Hamlet     	|       1603       	|      english      	|
 |  2 	|     1     	|    King Lear   	|       1606       	|      english      	|
