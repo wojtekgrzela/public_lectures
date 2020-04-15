@@ -96,7 +96,7 @@ Podstawową jednostką organizacyjną Tablic są **Listy**. Listę można nazywa
 
 Szczegółowe informacje na temat struktury projektu w Trello znajdziesz [tutaj](https://trello.com/guide/trello-101.html).
  
-### Najważniejsze funkcjonalności w projekcie stworzonym w Asana
+### Najważniejsze funkcjonalności w projekcie stworzonym w Trello
 
 #### Tworzenie zespołu
 
@@ -146,7 +146,7 @@ Zarządzanie projektem przy użyciu GitHub jest ściśle powiązana z repozytori
 - Tablice projektowe repozytorium - są to tablice projektowe należące do określonego repozytorium, chociaż mogą zawierać notatki, które mogą odnosić się do innych repozytoriów, są ograniczone do jednego repozytorium.
 - Tablice projektowe dla całej organizacji - są to tablice projektowe należące do organizacji posiadającej konta na Github, które mogą zawierać pięć repozytoriów w jednej tablicy projektowej. \
 
-### Najważniejsze funkcjonalności w projekcie stworzonym w Asana
+### Najważniejsze funkcjonalności w projekcie stworzonym w GitHub
  
 #### Tworzenie zespołu
 Tworzenie zespołu odbywa się w dwóch etapach. W pierwszym należy stworzyć nowe repozytorium. W tym celu wybieramy **+** w prawym górnym rogu strony, a następnie opcję  [**New repository**](https://help.github.com/en/github/getting-started-with-github/create-a-repo). Do utworzenia repozytorium wystarczy jedynie podać nazwę oraz określić czy repozytorium ma być prywatne.
