@@ -32,20 +32,20 @@ Funkcjonalności:
 ### Temat 3: Dziennik diabetyka
 
 Funkcjonalności:
-1. Dodanie nowej pozycji pozimou cukru.
+1. Dodanie nowej pozycji poziomu cukru.
 2. Wyszukanie pomiaru po dacie lub wartości .
 3. Zapis i wczytywanie pomiarów zamknięciu/otwarciu programu.
-4. Zapis pomirów do pliku pod zadaną ścieżkę.
+4. Zapis pomorów do pliku pod zadaną ścieżkę.
 5. Statystyka pomiarów.
 6. Jedna zaproponowane przez grupę.
 
 ### Temat 4: Dziennik ciśnieniowca
 
 Funkcjonalności:
-1. Dodanie nowej pozycji pozimou ciśnienia.
+1. Dodanie nowej pozycji poziomu ciśnienia.
 2. Wyszukanie pomiaru po dacie lub wartości. 
 3. Zapis i wczytywanie pomiarów zamknięciu/otwarciu programu.
-4. Zapis pomirów do pliku pod zadaną ścieżkę.
+4. Zapis pomorów do pliku pod zadaną ścieżkę.
 5. Wykres pomiarów.
 6. Jedna zaproponowane przez grupę.
 
@@ -53,10 +53,10 @@ Funkcjonalności:
 
 Funkcjonalności:
 1. Baza conajmniej 100 aforyzmów.
-2. Program po uruchomieniu wyświtla jeden aforyzm na dzień.
-3. Program pamięta które aforyzmy wyświetlił w jaki dzień i nie powtarz wyświetlonych.
+2. Program po uruchomieniu wyświetla jeden aforyzm na dzień.
+3. Program pamięta które aforyzmy wyświetlił w jaki dzień i nie powtarza wyświetlonych.
 4. System oceny aforyzmu.
-5. Po uruchomieniu program ma zagrać krutką melodyjkę.
+5. Po uruchomieniu program ma zagrać krótką melodyjkę.
 6. Jedna zaproponowane przez grupę.
 
 ### Temat 6: Lista zadań z mailem
@@ -95,7 +95,7 @@ Funkcjonalności:
 Funkcjonalności:
 1. Baza conajmniej 100 złotych myśli.
 2. Program po uruchomieniu wysyła jeden mail ze złotą myślą dziennie pod podany adres.
-3. Program pamięta które złote myśli były już użyte i ich nie powtarz. 
+3. Program pamięta które złote myśli były już użyte i ich nie powtarza. 
 4. Konfiguracją adresu email na który ma zostać wysłana złota myśl. 
 5. Jedna zaproponowane przez grupę.
 
@@ -114,7 +114,7 @@ Funkcjonalności:
 Funkcjonalności:
 1. Implelemtacja gry na planszach 3x3, 4x4, 5x5.
 2. Gra z komputerem.
-3. Statystyki wygranych zapamiętywanych nawet po wyłaczeniu programu. 
+3. Statystyki wygranych zapamiętywanych nawet po wyłączeniu programu. 
 4. Możliwość cofnięcia ruchu.
 5. Tryb gry na czas. 
 6. Jedna zaproponowane przez grupę.
@@ -142,7 +142,7 @@ Funkcjonalności:
 ### Temat 14: Gra w wisielca
 
 Funkcjonalności:
-1. Baza haseł z poziomami łatwy, średni, trudny conajmniej 25 w każdym.
+1. Baza haseł z poziomami łatwy, średni, trudny co najmniej 25 w każdym.
 2. Obsługa kategorii haseł.
 3. Implementacja zasad gry.
 4. Statystyka wygranych.
@@ -153,7 +153,7 @@ Funkcjonalności:
 Gra polega na jak najszybszym napisaniu wyrazów pojawiających się na ekranie.
 
 Funkcjonalności:
-1. Baza haseł z poziomami łatwy, średni, trudny conajmniej 25 w każdym.
+1. Baza haseł z poziomami łatwy, średni, trudny co najmniej 25 w każdym.
 2. Tryb nauki i wyzwania.
 3. Implementacja zasad gry.
 4. Statystyka wygranych.
@@ -173,10 +173,10 @@ Funkcjonalności:
 6. Jedna zaproponowane przez grupę. 
 
 ### Temat 17: Memory słowne
-Gracz ma zapamiętać wyświetlone przez program słowa a nastęnie wpisać je.
+Gracz ma zapamiętać wyświetlone przez program słowa a następnie wpisać je.
 
 Funkcjonalności:
-1. Baza haseł z poziomami łatwy, średni, trudny conajmniej 25 w każdym.
+1. Baza haseł z poziomami łatwy, średni, trudny co najmniej 25 w każdym.
 2. Tryb gry na czas i ilość.
 3. Implementacja zasad gry.
 4. Statystyka wygranych.
@@ -187,9 +187,9 @@ Funkcjonalności:
 ### Temat 18: Blackjack
 Zasady gry dostępne [tutaj](https://pl.wikipedia.org/wiki/Blackjack)
 Funkcjonalności:
-1. Implelemtacja gry od jednej tali  do 8.
+1. Implementacja gry od jednej tali  do 8.
 2. Gra z komputerem.
-3. Statystyki wygranych zapamiętywanych nawet po wyłaczeniu programu. 
+3. Statystyki wygranych zapamiętywanych nawet po wyłączeniu programu. 
 4. Możliwość cofnięcia ruchu.
 5. Tryb gry na czas. 
 6. Jedna zaproponowane przez grupę.
