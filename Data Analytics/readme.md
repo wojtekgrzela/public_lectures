@@ -5,6 +5,10 @@ Course for Automatic Control and Robotics, specialties:
 - Cyber-physical Systems,
 - Informatyka w Sterowaniu i Zarządzaniu
 
+During Covid-19 pandemic lectures are being presented on Youtube
+
+1. [One parameter models in Stan - part 1](https://youtu.be/2F7tBcncODQ)
+
 ## Laboratory class requirements
 
 It is recommended to use your own laptop computers.
@@ -22,6 +26,3 @@ Class work is realized in Python 3, in order to be able to work smoothly it is r
 For editing Stan code any text editor will be ok, syntax coloring is offered among the others by [Atom](https://atom.io).
 
 It is strongly recommended to have a GitHub account and store your coursework in a repository (public or private).
-
-
-
