@@ -6,7 +6,6 @@ Celem tego skryptu jest zapoznanie uczestników laboratorium z podstawowymi zasa
 - Śledzenie zmian w repozytorium
 - Ustawienie referencji repozytorium lokalnego do zdalnego
 - Synchronizacja repozytorium lokalnego z repozytorium zdalnym
-- Ustawienie .gitignore
 - Ręczne rozwiązywanie konfliktów
 
 W całym skrypcie znajdują się zadania. W celu poprawnego wykonania ćwiczenia należy wykonywać je po kolei. Jako wynik zadania należy wykonać zrzut ekranu na którym znajdować się ma notatnik z imieniem i nazwiskiem osoby wykonującej zadanie oraz linia poleceń z komendami  lub przeglądarka internetowa obrazująca wykonanie polecenia. Na jedno zadanie można wykonywać kilka zrzutów ekranów. Plik z zrzutem ma być typu jpg i nazywać się: zad_nrZad[_nrZrzu].
@@ -152,13 +151,6 @@ Git w ten sposób zaznacza konflikt w plikach. Żeby go rozwiązać należy zedy
 **Zadanie 7** 
 1. Dokonaj synchronizacji repozytorium sklonowanego z repozytorium zdalnym. 
 2. Sprawdź czy operacja udała się.
-
-
-## .gitignore
-
-Często w codziennej pracy z repozytorium zdarza się, że nie chcemy synchronizacji wszystkich plików znajdujących się w folderze 
-  
- 
 
 ## Przydatne linki:
 - [Git strona oficjalna](https://git-scm.com/)
