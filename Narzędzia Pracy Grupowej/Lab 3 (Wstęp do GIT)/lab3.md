@@ -145,7 +145,7 @@ Git w ten sposób zaznacza konflikt w plikach. Żeby go rozwiązać należy zedy
 	1. `git status`
 	1. `git add README.md`
 	1. `git commit -m 'twoja_wiadomość'` opcjonalnie `git commit -a` by Git dodał informację o ręcznym rozwiązaniu konfliktu.
-	1. `git push`
+	1. `git pull`
 7. Sprawdź wersję plików na serwerze.
 
 **Zadanie 7** 
