@@ -8,6 +8,8 @@ Course for Automatic Control and Robotics, specialties:
 During Covid-19 pandemic lectures are being presented on Youtube
 
 1. [One parameter models in Stan - part 1](https://youtu.be/2F7tBcncODQ)
+1. [One parameter models in Stan - part 2](https://youtu.be/fwpALbNSyDE)
+
 
 ## Laboratory class requirements
 
