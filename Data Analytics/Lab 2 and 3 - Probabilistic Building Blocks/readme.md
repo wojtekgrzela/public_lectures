@@ -20,10 +20,18 @@ The goal is to get a feel of parameters for certain popular distributions.
 5. Log-normal distribution. This is a great distributions for positive variables, especially if scale can differ (for example salaries). Assumtion is that the logarithm of variable of interest is normaly distributed. Observe how mean and variance of normal distribution are propagating through transformation.
 
 
-### Part 2 - Sampling in Stan (next week)
+### Part 2 - Sampling in Stan
 
-Topics will cover:
-- gamma family distributions
-- binomials and negative binomials
-- multivariate normals
-- student-t distributions
+We will analyze more probability distributions this time using Stan and generated quantities block. Remember to set algorithm to "fixed params" (see notebooks). In order to find how to use distribution functions check [Stan documentation](https://mc-stan.org/users/documentation/), in particular [Stan Language Functions Reference](https://mc-stan.org/docs/2_23/functions-reference/index.html). All models used for sampling should take distribution parameters as data to avoid need for recompilation.
+
+1. Gamma family distributions. These distributions are defined for positive real numbers.
+Provide histograms of Gamma and invGamma distributions. See how tail behavior of those distributions behave. Using albebra_solver (see notebook from lecture on poisson distribution modelling) find parameters for Gamma and invGamma for which 98% probability is for values between 5 and 10. Sample for those distributions and compare histograms.
+
+2. Negative binomial distribution.
+Negative binomial distribution can be used in order to relax the constraints of equal mean and variance of Poissson distribution. Using both concentration and dispersion parametrization sample from negative binomial with fixed mean and see how it behaves in comparison to the Poisson with the same mean.
+
+3. Student-t family distributions. Student-t distributions can be considered generalizations of Gaussian distributions with varying scale. Use both degrees of freedom and dispersion parametrizations to see how changing parameters moves from normal distribution. Take a special case of degrees of freedom equal to 1, as this is Cauchy distribution. See how mean and variance behave while you increase number of samples.
+
+3. Multivariate normal distributions
+Consider density plots and 2d histograms for visualisation of behavior of 2 dimensional Multivariate normal. Use the correlation matrix decompositon of covariance matrix to see how individual variances and correlations infulence the distribution.
+For 3 and 4 dimensional normal distributions observe the marginals of variables with histograms.
