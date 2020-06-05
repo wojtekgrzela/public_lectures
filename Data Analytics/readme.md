@@ -12,8 +12,14 @@ During Covid-19 pandemic lectures are being presented on Youtube
 2. [Data Analytics - Multiparameter models - part 1](https://youtu.be/fZwWnSqhubo)
 2. [Data Analytics - Multiparameter models - part 2](https://youtu.be/pBqHb95Ajok)
 2. [Data Analytics - Multiparameter models - part 3](https://youtu.be/R8p4oFZHHeM)
+2. [Data Analytics - Multiparameter models - part 4](https://youtu.be/Giw-R1dRyek)
+3. [Data Analytics - Linear models - part 1](https://youtu.be/NHnarRFuiYs)
+3. [Data Analytics - Linear models - part 2](https://youtu.be/4gDQWqM3TLE)
+3. [Data Analytics - Linear models - part 3](https://youtu.be/E-17sqYM40Q)
 
+Questions regarding lectures are also on YouTube
 
+1. [Q&A episode 1](https://youtu.be/2beg3As7RBk)
 
 ## Laboratory class requirements
 
